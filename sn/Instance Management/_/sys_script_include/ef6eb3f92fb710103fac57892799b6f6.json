@@ -1,0 +1,24 @@
+{
+  "access": "package_private",
+  "active": true,
+  "api_name": "x_53874_ins_mgmt.Instance",
+  "caller_access": null,
+  "client_callable": false,
+  "description": null,
+  "name": "Instance",
+  "script": {
+    "____see": "sn\\Instance Management\\Script Include\\active_true\\x_53874_ins_mgmt.Instance.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-10-12 22:06:12",
+  "sys_id": "ef6eb3f92fb710103fac57892799b6f6",
+  "sys_mod_count": 0,
+  "sys_name": "Instance",
+  "sys_package": "298474842f2310103fac57892799b6b5",
+  "sys_policy": "read",
+  "sys_scope": "298474842f2310103fac57892799b6b5",
+  "sys_update_name": "sys_script_include_ef6eb3f92fb710103fac57892799b6f6",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-10-12 22:06:12"
+}
